@@ -62,7 +62,7 @@ Construo sistemas completos — de agentes de IA autônomos a aplicações web e
 > **Next.js · Three.js · Vercel**
 
 ### 📱 OtherThings
-> App mobile de lembretes inteligentes para Android, publicado na Google Play Store.
+> App mobile de lembretes inteligentes para Android — em breve na Google Play Store.
 >
 > **Flutter · Dart · Firebase**
 
