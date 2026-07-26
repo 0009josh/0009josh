@@ -67,7 +67,7 @@ Construo sistemas completos — de agentes de IA autônomos a aplicações web e
 > **Flutter · Dart · Firebase**
 
 ### 🎮 Suba Sem Cair
-> Jogo mobile casual publicado na Google Play Store.
+> Jogo mobile casual em desenvolvimento — em breve na Google Play Store.
 >
 > **Godot 4.2 · GDScript · Android · AdMob**
 
